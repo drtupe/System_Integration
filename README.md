@@ -1,4 +1,4 @@
-# CapStone Project
+# System Integration Project
 
 ## Description:
 
