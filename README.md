@@ -64,6 +64,7 @@ Please use **one** of the two installation options, either native **or** docker 
   The Udacity provided virtual machine has ROS and Dataspeed DBW already installed, so you can skip the next two steps if you are using this.
 
 * Follow these instructions to install ROS
+  * [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) if you have Ubuntu 18.04.
   * [ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) if you have Ubuntu 16.04.
   * [ROS Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu) if you have Ubuntu 14.04.
 * Download the [Udacity Simulator](https://github.com/udacity/CarND-Capstone/releases).
